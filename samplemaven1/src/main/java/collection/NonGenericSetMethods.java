@@ -25,13 +25,6 @@ public class NonGenericSetMethods {
 		s.clear();
 		System.out.println(s);
 		
-		
-	
-		
-		
-		
-		// TODO Auto-generated method stub
-
-	}
+		}
 
 }

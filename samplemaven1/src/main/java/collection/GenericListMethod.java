@@ -17,7 +17,7 @@ public class GenericListMethod {
 		L.set(1,"white");
 		System.out.println(L);
 		System.out.println(L.indexOf("red"));
-		System.out.println(L.indexOf("pink"));
+		System.out.println(L.indexOf("white"));
 		System.out.println(L.lastIndexOf("red"));
 		L.remove(2);
 		System.out.println(L);
